@@ -1,5 +1,5 @@
 # Bigram_Model_Java_Project
-This homework assignment involves creating a basic bigram language model in Java. Here's an overview of what the language model does based on the assignment instructions:
+This project involves creating a basic bigram language model in Java. Here's an overview of what the language model does:
 
 1. Build Vocabulary Index: The model processes a text file to extract a vocabulary of words, limited to 14,500 unique words. Words must contain at least one English letter or be whole numbers. The vocabulary is stored in a String[] array.
 
